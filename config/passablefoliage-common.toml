@@ -1,0 +1,13 @@
+fallDamageReduction = 0.7
+fallDamageThreshold = 20
+speedReductionHorizontal = 0.7
+speedReductionVertical = 0.7
+modifyPathFinding = false
+playerOnly = true
+
+[modules]
+enchantment = true
+
+[sounds]
+volume = 1.0
+playerOnly = false
